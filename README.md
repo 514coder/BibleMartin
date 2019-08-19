@@ -1,2 +1,2 @@
-# BibleMartin
-La bible de David Martin
+# Bible de David Martin
+La Bible de David Martin
